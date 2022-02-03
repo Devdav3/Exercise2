@@ -54,3 +54,7 @@ button{
   height: 40px;
   border: none;
 }
+.forgot{
+  position: relative;
+  left: 230px;
+}
